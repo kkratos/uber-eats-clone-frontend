@@ -1,0 +1,21 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "setup",
+  "steps": [
+    {
+      "file": "src/apollo.ts",
+      "description": "step 1 \r\n- setup apollo\r\n- connect backend with url ",
+      "line": 1
+    },
+    {
+      "file": "apollo.config.js",
+      "description": "setup apollo codegen for validating your schema ",
+      "line": 1
+    },
+    {
+      "file": "src/pages/login.tsx",
+      "description": "- login mutation\r\n- typing the input and output from DTO\r\n- typing our client mutation from backend loginInput",
+      "line": 8
+    }
+  ]
+}
